@@ -1,0 +1,22 @@
+1. Sample guitar sound with ADC
+2. Perform filtering of the sampled signal
+3. Implement digital sound effects:
+	- Delay
+	- Distortion
+	- Chorus
+	- Flanger
+	- Phaser
+	- Echo
+	- Reverb
+4. Implement toggle buttons to select the desired effect
+5. Implement speaker driver to output
+6. Screen to see the chosen effect 
+
+Controls
+1. Gain level with no effect
+2. Gain level for each effect
+
+Interface
+1. 6.5mm Female jack input
+2. 6.5mm female jack output
+3. 
